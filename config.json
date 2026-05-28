@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaileave",
+        "uuid": 6408064,
+        "checksum": "jby5hv"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
